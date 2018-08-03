@@ -1,0 +1,26 @@
+{
+  "name": "@kbco/ratify",
+  "version": "0.0.1",
+  "description": "A way to stream line commands",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbcomputers/ratify.git"
+  },
+  "author": "austinkregel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbcomputers/ratify/issues"
+  },
+  "homepage": "https://github.com/kbcomputers/ratify#readme",
+  "dependencies": {
+    "forge-cli": "^0.2"
+  },
+  "bin": {
+    "ratify": "./index.js"
+  }
+}
