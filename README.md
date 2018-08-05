@@ -1,6 +1,9 @@
 # Ratify
 A cli tool that helps you script out common tasks you preform!
 
+## Installation
+`npm install -g @kbco/ratify`
+
 ## How to use
 There are two commands that come with Ratify. The first one allows you to script out tasks that create files, folders, or projects. For example, I tend to create a lot of new Laravel projects. When I do that I tend to pull in the same 5 dependencies and set up the whole project the same. So I created a ratify script to do that for me.
 
@@ -47,3 +50,6 @@ _That's cool and all, but I really don't see how this is valuable to me._
 I use this toolset to commit to my work project. Our tests are setup in docker, we have also enforce a code style. I wanted to run our code style checker and our tests before I push my code up to our VCS. _GithooK!_ I thought, but then realized that running the tests against docker won't work because you need a valid TTY session and Githooks don't provide that.
 
 Thus enter in my custom toolset here. I can run `ratify commit path/to/file` and then it runs my tests and cs checks. If anything fails it aborts the commit and then I can address the feedback it provides me.
+
+# Extras
+Pull requests, and issues are welcome! Made with my other package [forge-cli](https://github.com/austinkregel/forge-cli)
