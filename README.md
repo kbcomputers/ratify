@@ -53,3 +53,7 @@ Thus enter in my custom toolset here. I can run `ratify commit path/to/file` and
 
 # Extras
 Pull requests, and issues are welcome! Made with my other package [forge-cli](https://github.com/austinkregel/forge-cli)
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/metabitco/ratify/badge.svg?style=beer-square)](https://beerpay.io/metabitco/ratify)  [![Beerpay](https://beerpay.io/metabitco/ratify/make-wish.svg?style=flat-square)](https://beerpay.io/metabitco/ratify?focus=wish)
